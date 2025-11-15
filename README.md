@@ -60,6 +60,6 @@ DevOps practices.</p>
 
 
 
-<img src="https://raw.githubusercontent.com/geyasreer/geyasreer/output/pacman-contribution-graph.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/geyasreer/geyasreer/output/pacman-contribution-graph-dark.svg" alt="Snake animation" />
 
 ###
